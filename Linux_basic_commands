@@ -1,0 +1,24 @@
+ls                 -  List directories and files on currently working directory
+cd                 -  It navigate to the home directory
+pwd                -  It show the currently working directory
+mkdir              -  Its used to create new directory
+rm                 -  It used to delete the file we created
+cp                 -  It used to copy the content from one file to another
+mv                 -  It used to move or rename the file or directory
+cat                -  It used to view the content on the file without open the file
+less               -
+head               -
+tail               -
+find               -
+grep               - 
+chmod              -
+chown              -
+ps                 -
+top                -
+kill               -
+systemctl          -
+journalctl         - 
+df                 -
+du                 -
+free               -
+uname              - It display the user name currently logined
